@@ -15,9 +15,6 @@ try:
         case default:
               print(f"There was an Error")
 
-    
-
-
 
 except Exception as e:
      print("Enter Valid Input")
